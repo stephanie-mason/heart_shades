@@ -6,7 +6,7 @@
 #define LED_TYPE WS2812B
 #define COLOR_ORDER GRB
 #define NUM_LEDS 54
-#define BRIGHTNESS 12
+#define BRIGHTNESS 8
 #define ARRAY_SIZE(A) (sizeof(A) / sizeof((A)[0]))
 
 /*** PALETTE DECLARATIONS ***/
